@@ -1,6 +1,6 @@
-# Contextual Geometric Structures (CGS)
-CGS - GSoc 2018 projects + associated CGS applications
+## Contextual Geometric Structures (CGS):
+CGS work done as GSoc 2018 projects and associated CGS applications/development.
 
 
-### Legacy Accoutn Repo
+### Legacy Account Repository:
 https://github.com/Orthogonal-Research-Lab/CGS
